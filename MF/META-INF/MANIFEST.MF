@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Main-Class: com.hohai.aocheng.AcPanel2
+Class-Path: jcommon-1.0.24.jar darklaf-theme-spec-3.0.2.jar darklaf-plat
+ form-preferences-3.0.2.jar jdatepicker-2.0.3.jar darklaf-platform-base-
+ 3.0.2.jar HD.Common.jar darklaf-native-utils-3.0.2.jar junit-jupiter-5.
+ 9.2.jar mysql-connector-j-8.0.31.jar curvesapi-1.06.jar darklaf-propert
+ y-loader-3.0.2.jar poi-ooxml-schemas-4.1.2.jar junit-platform-engine-1.
+ 9.2.jar junit-jupiter-api-5.9.2.jar junit-jupiter-params-5.9.2.jar comm
+ ons-codec-1.13.jar swing-extensions-visual-padding-0.1.3.jar littleluck
+ -2.0.1.jar jsvg-0.0.9.jar xmlbeans-3.1.0.jar mybatis-3.5.6.jar darklaf-
+ core-3.0.2.jar darklaf-compatibility-3.0.2.jar lombok-1.18.26.jar commo
+ ns-collections4-4.4.jar hamcrest-core-1.3.jar swing-extensions-laf-supp
+ ort-0.1.3.jar log4j-1.2.17.jar opentest4j-1.2.0.jar apiguardian-api-1.1
+ .2.jar darklaf-windows-3.0.2.jar darklaf-theme-3.0.2.jar darklaf-iconse
+ t-3.0.2.jar darklaf-macos-3.0.2.jar poi-ooxml-4.1.2.jar darklaf-platfor
+ m-decorations-3.0.2.jar commons-compress-1.19.jar jfreechart-1.0.19.jar
+  commons-math3-3.6.1.jar junit-4.13.2.jar SparseBitSet-1.2.jar joda-tim
+ e-2.10.6.jar NinePatch-1.0.jar junit-jupiter-engine-5.9.2.jar junit-pla
+ tform-commons-1.9.2.jar HD.Common.jar beautyeye_lnf.jar HD.Client.User.
+ jar darklaf-utils-3.0.2.jar protobuf-java-3.19.4.jar poi-4.1.2.jar
+
